@@ -1,0 +1,4 @@
+folium==0.15.0
+geopandas==0.13.2
+osmnx==1.9.1
+Shapely==2.0.3
