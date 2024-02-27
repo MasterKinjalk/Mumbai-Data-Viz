@@ -1,0 +1,173 @@
+[
+    {
+      "name": "Gateway of India",
+      "area": "Colaba",
+      "description": "A triumphal arch built to commemorate the arrival of British King George V and Queen Mary to India.",
+      "image": "[Image of Gateway of India, Mumbai]",
+      "latitude": 18.9205,
+      "longitude": 72.8310
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)",
+      "area": "Fort Area",
+      "description": "Formerly known as the Prince of Wales Museum, it houses a vast collection of Indian art and artifacts.",
+      "image": "[Image of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai]",
+      "latitude": 18.9202,
+      "longitude": 72.8333
+    },
+    {
+      "name": "Marine Drive",
+      "area": "Nariman Point",
+      "description": "A scenic 3.6 km boulevard known as the Queen's Necklace, offering stunning views of the Arabian Sea.",
+      "image": "[Image of Marine Drive, Mumbai]",
+      "latitude": 18.9244,
+      "longitude": 72.8287 
+    },
+    {
+      "name": "Mani Bhavan",
+      "area": "Laburnum Road",
+      "description": "The former residence of Mahatma Gandhi in Mumbai, now a museum dedicated to his life and work.",
+      "image": "[Image of Mani Bhavan, Mumbai]",
+      "latitude": 18.9642,
+      "longitude": 72.8247
+    },
+    {
+      "name": "Bandra-Worli Sea Link",
+      "area": "Bandra & Worli",
+      "description": "A cable-stayed bridge connecting Bandra and Worli, offering panoramic views of the Mumbai skyline.",
+      "image": "[Image of Bandra-Worli Sea Link, Mumbai]",
+      "latitude": 19.0300,
+      "longitude": 72.8286
+    },
+    {
+      "name": "Siddhivinayak Temple",
+      "area": "Prabhadevi",
+      "description": "A Hindu temple dedicated to Lord Ganesha, known for its intricate carvings and being a popular pilgrimage site.",
+      "image": "[Image of Siddhivinayak Temple, Mumbai]",
+      "latitude": 18.9213,
+      "longitude": 72.8372
+    },
+    {
+      "name": "Sanjay Gandhi National Park",
+      "area": "Borivali",
+      "description": "A large urban park offering nature trails, a variety of flora and fauna, and the Kanheri Caves.",
+      "image": "[Image of Sanjay Gandhi National Park, Mumbai]",
+      "latitude": 19.1722,
+      "longitude": 72.8778
+    },
+    {
+      "name": "Victoria Terminus (CST)",
+      "area": "Fort Area",
+      "description": "A UNESCO World Heritage Site, this historic railway station is known for its Victorian Gothic architecture.",
+      "image": "[Image of Victoria Terminus, Mumbai]",
+      "latitude": 18.9350,
+      "longitude": 72.8397
+    },
+    {
+      "name": "Colaba Causeway",
+      "area": "Colaba",
+      "description": "A bustling street market known for its variety of shops selling souvenirs, clothing, and local crafts.",
+      "image": "[Image of Colaba Causeway, Mumbai]",
+      "latitude": 18.9167,
+      "longitude": 72.8278
+    },
+    {
+      "name": "Taj Palace and Tower Hotel",
+      "latitude": 18.9213,
+      "longitude": 72.8334,
+      "description": "A prestigious luxury hotel located near the Gateway of India in Mumbai, known for its distinctive architecture and history, symbolizing Indian hospitality."
+    },
+    {
+      "name": "Royal Bombay Yacht Club",
+      "latitude": 18.9244,
+      "longitude": 72.8325,
+      "description": "An elite yacht club established in the 19th century, located in Mumbai, known for its maritime heritage and exclusive membership."
+    },
+    {
+      "name": "Dhanraj Mahal",
+      "latitude": 19.0750,
+      "longitude": 72.8500,
+      "description": "A historic art deco building in Mumbai, originally built as a palatial residence, now housing offices and commercial spaces."
+    },
+    {
+      "name": "Regal Cinema",
+      "latitude": 18.9186,
+      "longitude": 72.8333,
+      "description": "One of Mumbai's first Art Deco cinemas, opened in the early 20th century, known for its grandeur and architectural style."
+    },
+    {
+      "name": "Elphinstone College",
+      "latitude": 18.9246,
+      "longitude": 72.8319,
+      "description": "A prestigious institution established in the 19th century, known for its Gothic architecture and significant contribution to India's educational landscape."
+    },
+    {
+      "name": "Horniman Circle",
+      "latitude": 18.9311,
+      "longitude": 72.8325,
+      "description": "A large park surrounded by office buildings in Mumbai's Fort area, named after Benjamin Horniman, a British editor who supported Indian independence."
+    },
+    {
+      "name": "Bombay High Court",
+      "latitude": 18.9278,
+      "longitude": 72.8397,
+      "description": "One of the oldest High Courts in India, known for its Gothic Revival architecture and as a symbol of the Indian judiciary system."
+    },
+    {
+      "name": "University of Mumbai",
+      "latitude": 18.9233,
+      "longitude": 72.8297,
+      "description": "One of India's first three universities, known for its historic buildings and as a premier institution for higher education in India."
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "latitude": 18.9350,
+      "longitude": 72.8397,
+      "description": "A historic railway station and a UNESCO World Heritage Site, known for its Victorian Gothic architecture and as a major transportation hub in Mumbai."
+    },
+    {
+      "name": "Elephanta Caves",
+      "latitude": 18.9575,
+      "longitude": 72.9258,
+      "description": "A network of sculpted caves located on Elephanta Island, near Mumbai, known for their ancient Hindu and Buddhist rock art."
+    },
+    {
+      "name": "Haji Ali Dargah",
+      "latitude": 18.9205,
+      "longitude": 72.8300,
+      "description": "An iconic mosque and tomb located on an islet off the coast of Mumbai, known for its Indo-Islamic architecture and spiritual significance."
+    },
+    {
+      "name": "Rajabai Clock Tower",
+      "latitude": 18.9233,
+      "longitude": 72.8297,
+      "description": "A clock tower within the University of Mumbai campus, inspired by Big Ben, known for its Gothic Revival architecture."
+    },
+  
+  
+    {
+      "name": "Kanheri Caves",
+      "latitude": 19.1722,
+      "longitude": 72.8778,
+      "description": "A group of caves and rock-cut monuments located in Sanjay Gandhi National Park, known for their Buddhist influence and ancient inscriptions."
+    },
+    {
+      "name": "Tower of Silence",
+      "latitude": 18.9647,
+      "longitude": 72.8203,
+      "description": "A Parsi or Zoroastrian funerary site in Mumbai, where the dead are exposed to the elements and birds of prey, in accordance with Zoroastrian tradition."
+    },
+    {
+      "name": "Flora Fountain",
+      "latitude": 18.9229,
+      "longitude": 72.8319,
+      "description": "An ornate fountain located in the heart of Mumbai, named after the Roman Goddess Flora, known for its architectural beauty and historical significance."
+    },
+    {
+      "name": "Antilia",
+      "latitude": 19.0833,
+      "longitude": 72.8333,
+      "description": "A private 27-story residence in Mumbai, known as one of the most expensive homes in the world, belonging to Mukesh Ambani."
+    }
+  ]
+  
