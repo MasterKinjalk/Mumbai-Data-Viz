@@ -2,7 +2,7 @@
 
 Welcome to the Mumbai Data Exploration & Visualization repository! This project leverages the powerful OSMnx library to extract and visualize a wide array of data, starting with the intricate network of roads in Mumbai. Designed to be flexible and adaptable, this tool can be customized to gather and plot different types of urban data, offering insights into the city's layout, infrastructure, and more.
 
-[Mumbai Map with Slums](mumbai_map_with_slums.html)
+Downlaod and open in a brower to interact with the Map: [Mumbai Map with Slums](mumbai_map_with_slums.html)
 
 ---
 
