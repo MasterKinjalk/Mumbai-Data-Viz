@@ -133,7 +133,7 @@ legend_html = """
      <i style="background: orange; opacity: 0.7; width: 12px; height: 12px; display: inline-block;"></i> Orange semi-transparent areas: Slum clusters(Another form of <b>District</b>)<br>
      <i class="fa fa-map-marker" aria-hidden="true" style="color: purple;"></i> Purple markers: Centroids of Mumbai's administrative areas<br>
      <i class="fa fa-map-marker" aria-hidden="true" style="color: green;"></i> Green markers: Prominent locations and their historical info on cick,also<b>nodes</b><br>
-     <i class="fa fa-camera" aria-hidden="true" style="color: blue;"></i> Blue markers: Tourist places/<b>Landmarks</b> and their significane on click,also<b>nodes</b><br>
+     <i class="fa fa-camera" aria-hidden="true" style="color: blue;"></i> Blue markers: Tourist places/<b>Landmarks</b> and their significane on click, also <b>nodes</b><br>
 </div>
 """
 
