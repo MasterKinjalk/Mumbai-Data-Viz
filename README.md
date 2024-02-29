@@ -65,21 +65,8 @@ After extracting the desired data using `play.py`, it is essential to incorporat
 
 By following these guidelines and ensuring a seamless integration of data extracted with `play.py` into `mindmapmumbai.py`, the project can fully leverage the capabilities of the OSMnx library and enhance its functionality and effectiveness.
 
---- 
-
-## Contributing
-
-Contributions are welcome! Whether you're enhancing the data extraction capabilities, adding new visualization features, or improving the documentation, your input helps make this project more valuable to everyone.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 ## Acknowledgments
 
-- A big thank you to all contributors and users for your support and feedback.
 - Gratitude to the developers of OSMnx for providing the tools to make this project possible.
