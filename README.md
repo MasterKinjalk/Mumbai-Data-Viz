@@ -4,6 +4,9 @@ Welcome to the Mumbai Data Exploration & Visualization repository! This project 
 
 Downlaod and open in a brower to interact with the Map: [Mumbai Map with Slums](mumbai_map_with_slums.html)
 
+![Mumbai Map Overview](mmabiMap.png)
+
+![Mumbai Map Zoomed](mumbaizoomsnip.png)
 ---
 
 ## Project Overview
@@ -24,8 +27,8 @@ At the heart of this project is the `play.py` script, a versatile tool for data 
 Clone the repository and install dependencies to dive into Mumbai's urban landscape:
 
 ```bash
-git clone https://github.com/<your-username>/mumbai-data-visualization.git
-cd mumbai-data-visualization
+git clone https://github.com/MasterKinjalk/mumbai-data-viz.git
+cd mumbai-data-viz
 pip install -r requirements.txt
 ```
 
