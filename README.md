@@ -4,7 +4,7 @@ Welcome to the Mumbai Data Exploration & Visualization repository! This project 
 
 Downlaod and open in a brower to interact with the Map: [Mumbai Map with Slums](mumbai_map_with_slums.html)
 
-![Mumbai Map Overview](mmabaiMap.png)
+![Mumbai Map Overview](mmbaiMap.png)
 
 ![Mumbai Map Zoomed](mumbaizoomsnip.png)
 ---
